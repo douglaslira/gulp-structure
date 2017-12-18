@@ -1,0 +1,33 @@
+{
+  "modules": [
+    {
+      "name": "a",
+      "modules": [
+        {
+          "name": "b",
+          "modules": [
+            {"name": "b1"},
+            {"name": "b2"},
+            {"name": "b3"}
+          ]
+        },
+        {
+          "name": "c",
+          "modules": [
+            {"name": "c1"},
+            {"name": "c2"},
+            {"name": "c3"}
+          ]
+        },
+        {
+          "name": "d",
+          "modules": [
+            {"name": "d1"},
+            {"name": "d2"},
+            {"name": "d3"}
+          ]
+        }
+      ]
+    }
+  ]
+}
